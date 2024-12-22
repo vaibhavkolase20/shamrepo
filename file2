@@ -34,7 +34,7 @@ kubectl version -o json
 
 # step3:- to start kubctl
 
-minikube start
+#minikube start
 
 # give driver
 
