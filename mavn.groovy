@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Pull') {
             steps {
-                git 'https://github.com/vaibhavkolase20/ram-2.git'
+                git 'https://github.com/vaibhavkolase20/shamrepo.git'
             }
         }
 
